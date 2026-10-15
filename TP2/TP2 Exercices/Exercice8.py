@@ -1,0 +1,1 @@
+print(str(6) * float("4.8")) 
